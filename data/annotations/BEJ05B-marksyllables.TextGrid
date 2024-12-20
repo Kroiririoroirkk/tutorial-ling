@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.6140589569161 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllables" 
+        xmin = 0 
+        xmax = 7.6140589569161 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4624663603244568 
+            text = "pause" 
+        intervals [2]:
+            xmin = 0.4624663603244568 
+            xmax = 0.6578627506843983 
+            text = "1Y" 
+        intervals [3]:
+            xmin = 0.6578627506843983 
+            xmax = 0.8618795700308077 
+            text = "1Y" 
+        intervals [4]:
+            xmin = 0.8618795700308077 
+            xmax = 1.0371616260889904 
+            text = "3N" 
+        intervals [5]:
+            xmin = 1.0371616260889904 
+            xmax = 1.19102947845805 
+            text = "3Y" 
+        intervals [6]:
+            xmin = 1.19102947845805 
+            xmax = 1.3819787855477106 
+            text = "4Y" 
+        intervals [7]:
+            xmin = 1.3819787855477106 
+            xmax = 1.631971226155283 
+            text = "4Y" 
+        intervals [8]:
+            xmin = 1.631971226155283 
+            xmax = 2.48702947845805 
+            text = "4Y" 
+        intervals [9]:
+            xmin = 2.48702947845805 
+            xmax = 3.2899670678859625 
+            text = "5Y" 
+        intervals [10]:
+            xmin = 3.2899670678859625 
+            xmax = 4.45502947845805 
+            text = "5Y" 
+        intervals [11]:
+            xmin = 4.45502947845805 
+            xmax = 4.83902947845805 
+            text = "pause" 
+        intervals [12]:
+            xmin = 4.83902947845805 
+            xmax = 5.312567746145135 
+            text = "1Y" 
+        intervals [13]:
+            xmin = 5.312567746145135 
+            xmax = 5.864275201279088 
+            text = "1Y" 
+        intervals [14]:
+            xmin = 5.864275201279088 
+            xmax = 6.160243263147822 
+            text = "4Y" 
+        intervals [15]:
+            xmin = 6.160243263147822 
+            xmax = 6.438970467043621 
+            text = "4Y" 
+        intervals [16]:
+            xmin = 6.438970467043621 
+            xmax = 7.390091131883925 
+            text = "4Y" 
+        intervals [17]:
+            xmin = 7.390091131883925 
+            xmax = 7.6140589569161 
+            text = "pause" 

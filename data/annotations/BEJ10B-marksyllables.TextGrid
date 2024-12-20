@@ -1,0 +1,214 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.29453514739229 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllables" 
+        xmin = 0 
+        xmax = 11.29453514739229 
+        intervals: size = 50 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29988567405822963 
+            text = "pause" 
+        intervals [2]:
+            xmin = 0.29988567405822963 
+            xmax = 0.44718695902099936 
+            text = "4N" 
+        intervals [3]:
+            xmin = 0.44718695902099936 
+            xmax = 0.6095960680825147 
+            text = "2Y" 
+        intervals [4]:
+            xmin = 0.6095960680825147 
+            xmax = 1.1062657853287765 
+            text = "5Y" 
+        intervals [5]:
+            xmin = 1.1062657853287765 
+            xmax = 1.3807238603158796 
+            text = "pause" 
+        intervals [6]:
+            xmin = 1.3807238603158796 
+            xmax = 1.4441486582581715 
+            text = "3Y" 
+        intervals [7]:
+            xmin = 1.4441486582581715 
+            xmax = 1.5291301688136156 
+            text = "4Y" 
+        intervals [8]:
+            xmin = 1.5291301688136156 
+            xmax = 1.6481042835912372 
+            text = "2Y" 
+        intervals [9]:
+            xmin = 1.6481042835912372 
+            xmax = 1.8747216450724216 
+            text = "4Y" 
+        intervals [10]:
+            xmin = 1.8747216450724216 
+            xmax = 2.1152180540933547 
+            text = "4Y" 
+        intervals [11]:
+            xmin = 2.1152180540933547 
+            xmax = 2.651545809598824 
+            text = "5Y" 
+        intervals [12]:
+            xmin = 2.651545809598824 
+            xmax = 3.0456995773289095 
+            text = "pause" 
+        intervals [13]:
+            xmin = 3.0456995773289095 
+            xmax = 3.1912675736961447 
+            text = "4Y" 
+        intervals [14]:
+            xmin = 3.1912675736961447 
+            xmax = 3.4488813512950998 
+            text = "1Y" 
+        intervals [15]:
+            xmin = 3.4488813512950998 
+            xmax = 3.947332356867842 
+            text = "5N" 
+        intervals [16]:
+            xmin = 3.947332356867842 
+            xmax = 4.439267573696145 
+            text = "pause" 
+        intervals [17]:
+            xmin = 4.439267573696145 
+            xmax = 4.530026731692499 
+            text = "3Y" 
+        intervals [18]:
+            xmin = 4.530026731692499 
+            xmax = 4.727267573696144 
+            text = "4Y" 
+        intervals [19]:
+            xmin = 4.727267573696144 
+            xmax = 4.835960169692098 
+            text = "4N" 
+        intervals [20]:
+            xmin = 4.835960169692098 
+            xmax = 5.109420410830099 
+            text = "2Y" 
+        intervals [21]:
+            xmin = 5.109420410830099 
+            xmax = 5.479267573696145 
+            text = "5Y" 
+        intervals [22]:
+            xmin = 5.479267573696145 
+            xmax = 5.639267573696145 
+            text = "3Y" 
+        intervals [23]:
+            xmin = 5.639267573696145 
+            xmax = 5.767267573696144 
+            text = "1N" 
+        intervals [24]:
+            xmin = 5.767267573696144 
+            xmax = 5.8817151031104435 
+            text = "1Y" 
+        intervals [25]:
+            xmin = 5.8817151031104435 
+            xmax = 6.057343558258361 
+            text = "1Y" 
+        intervals [26]:
+            xmin = 6.057343558258361 
+            xmax = 6.404823512529511 
+            text = "1Y" 
+        intervals [27]:
+            xmin = 6.404823512529511 
+            xmax = 6.535267573696145 
+            text = "3Y" 
+        intervals [28]:
+            xmin = 6.535267573696145 
+            xmax = 6.646624949539295 
+            text = "4N" 
+        intervals [29]:
+            xmin = 6.646624949539295 
+            xmax = 6.925198112946843 
+            text = "2Y" 
+        intervals [30]:
+            xmin = 6.925198112946843 
+            xmax = 7.335267573696145 
+            text = "pause" 
+        intervals [31]:
+            xmin = 7.335267573696145 
+            xmax = 7.467481933290922 
+            text = "2Y" 
+        intervals [32]:
+            xmin = 7.467481933290922 
+            xmax = 7.678991470673361 
+            text = "3Y" 
+        intervals [33]:
+            xmin = 7.678991470673361 
+            xmax = 7.935824480352037 
+            text = "1Y" 
+        intervals [34]:
+            xmin = 7.935824480352037 
+            xmax = 8.11522989152464 
+            text = "5Y" 
+        intervals [35]:
+            xmin = 8.11522989152464 
+            xmax = 8.48580034068736 
+            text = "pause" 
+        intervals [36]:
+            xmin = 8.48580034068736 
+            xmax = 8.58022424130452 
+            text = "3Y" 
+        intervals [37]:
+            xmin = 8.58022424130452 
+            xmax = 8.704863790119171 
+            text = "1N" 
+        intervals [38]:
+            xmin = 8.704863790119171 
+            xmax = 8.859718987131314 
+            text = "1Y" 
+        intervals [39]:
+            xmin = 8.859718987131314 
+            xmax = 9.120328952834676 
+            text = "1Y" 
+        intervals [40]:
+            xmin = 9.120328952834676 
+            xmax = 9.456478039031767 
+            text = "1Y" 
+        intervals [41]:
+            xmin = 9.456478039031767 
+            xmax = 9.637817241390561 
+            text = "pause" 
+        intervals [42]:
+            xmin = 9.637817241390561 
+            xmax = 9.781341570328644 
+            text = "4Y" 
+        intervals [43]:
+            xmin = 9.781341570328644 
+            xmax = 9.927267573696145 
+            text = "4Y" 
+        intervals [44]:
+            xmin = 9.927267573696145 
+            xmax = 10.257238029439131 
+            text = "4Y" 
+        intervals [45]:
+            xmin = 10.257238029439131 
+            xmax = 10.399970064398119 
+            text = "pause" 
+        intervals [46]:
+            xmin = 10.399970064398119 
+            xmax = 10.583267573696144 
+            text = "3Y" 
+        intervals [47]:
+            xmin = 10.583267573696144 
+            xmax = 10.711267573696144 
+            text = "2Y" 
+        intervals [48]:
+            xmin = 10.711267573696144 
+            xmax = 10.919267573696146 
+            text = "1Y" 
+        intervals [49]:
+            xmin = 10.919267573696146 
+            xmax = 11.125145621137909 
+            text = "5Y" 
+        intervals [50]:
+            xmin = 11.125145621137909 
+            xmax = 11.29453514739229 
+            text = "pause" 

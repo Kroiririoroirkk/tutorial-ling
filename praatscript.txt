@@ -1,0 +1,43 @@
+# Path to the text file that we are writing to
+filename$ = "data/pitchinfo.txt"
+writeFileLine: filename$, "#Each entry contains the duration of a syllable (in seconds), an optional label, and a pitch time series."
+
+# We will use this information to determine when to end the loop
+sound$ = Sound info
+audio_duration = extractNumber (sound$, "Total duration: ")
+epsilon = 0.001
+
+# Hacky trick to move the cursor to the vowel tier, t=0
+Add interval tier... 1
+Remove entire tier
+Select previous tier
+Move cursor to... 0
+
+# The flag is set to 0 once we reach the end of the audio
+flag = 1
+while flag
+  startTime = Get starting point of interval
+  endTime = Get end point of interval
+  duration = Get selection length
+  label$ = Get label of interval
+  if label$ <> "pause"
+    # Samples which are too long cannot be analyzed
+    if duration < 10
+        Zoom to selection
+        pitch$ = Pitch listing
+        if label$ = ""
+          appendFileLine: filename$, duration, tab$, "NONE"
+        else
+          appendFileLine: filename$, duration, tab$, label$
+        endif
+        appendFileLine: filename$, pitch$, "END PITCH"
+    endif
+  endif
+  if endTime > audio_duration - epsilon
+      # We've reached the end of the audio (it is good practice
+      # to use an epsilon value when checking if two floating-
+      # point numbers are equal)
+      flag = 0
+  endif
+  Select next interval
+endwhile

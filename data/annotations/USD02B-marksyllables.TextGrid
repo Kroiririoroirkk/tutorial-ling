@@ -1,0 +1,150 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 28.56501133786848 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "syllables" 
+        xmin = 0 
+        xmax = 28.56501133786848 
+        intervals: size = 34 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16971115451739288 
+            text = "" 
+        intervals [2]:
+            xmin = 0.16971115451739288 
+            xmax = 0.22900211405290807 
+            text = "" 
+        intervals [3]:
+            xmin = 0.22900211405290807 
+            xmax = 0.8407004214714137 
+            text = "" 
+        intervals [4]:
+            xmin = 0.8407004214714137 
+            xmax = 1.055032982127245 
+            text = "" 
+        intervals [5]:
+            xmin = 1.055032982127245 
+            xmax = 1.2345056689342397 
+            text = "" 
+        intervals [6]:
+            xmin = 1.2345056689342397 
+            xmax = 2.1088355795365805 
+            text = "" 
+        intervals [7]:
+            xmin = 2.1088355795365805 
+            xmax = 3.26650566893424 
+            text = "pause" 
+        intervals [8]:
+            xmin = 3.26650566893424 
+            xmax = 3.329183487053285 
+            text = "" 
+        intervals [9]:
+            xmin = 3.329183487053285 
+            xmax = 3.5043613220445793 
+            text = "" 
+        intervals [10]:
+            xmin = 3.5043613220445793 
+            xmax = 4.14650566893424 
+            text = "" 
+        intervals [11]:
+            xmin = 4.14650566893424 
+            xmax = 5.000426791355137 
+            text = "pause" 
+        intervals [12]:
+            xmin = 5.000426791355137 
+            xmax = 5.202555062498939 
+            text = "" 
+        intervals [13]:
+            xmin = 5.202555062498939 
+            xmax = 5.364931440317792 
+            text = "" 
+        intervals [14]:
+            xmin = 5.364931440317792 
+            xmax = 5.8662095527544205 
+            text = "" 
+        intervals [15]:
+            xmin = 5.8662095527544205 
+            xmax = 9.13850566893424 
+            text = "pause" 
+        intervals [16]:
+            xmin = 9.13850566893424 
+            xmax = 9.308993458876111 
+            text = "" 
+        intervals [17]:
+            xmin = 9.308993458876111 
+            xmax = 9.602505668934239 
+            text = "" 
+        intervals [18]:
+            xmin = 9.602505668934239 
+            xmax = 9.858505668934239 
+            text = "" 
+        intervals [19]:
+            xmin = 9.858505668934239 
+            xmax = 10.274505668934239 
+            text = "" 
+        intervals [20]:
+            xmin = 10.274505668934239 
+            xmax = 15.890505668934239 
+            text = "pause" 
+        intervals [21]:
+            xmin = 15.890505668934239 
+            xmax = 16.247209378162353 
+            text = "" 
+        intervals [22]:
+            xmin = 16.247209378162353 
+            xmax = 16.41850566893424 
+            text = "" 
+        intervals [23]:
+            xmin = 16.41850566893424 
+            xmax = 17.20250566893424 
+            text = "" 
+        intervals [24]:
+            xmin = 17.20250566893424 
+            xmax = 22.25850566893424 
+            text = "pause" 
+        intervals [25]:
+            xmin = 22.25850566893424 
+            xmax = 22.447381690315503 
+            text = "" 
+        intervals [26]:
+            xmin = 22.447381690315503 
+            xmax = 22.67150332155755 
+            text = "" 
+        intervals [27]:
+            xmin = 22.67150332155755 
+            xmax = 22.85050566893424 
+            text = "" 
+        intervals [28]:
+            xmin = 22.85050566893424 
+            xmax = 23.217249653645815 
+            text = "" 
+        intervals [29]:
+            xmin = 23.217249653645815 
+            xmax = 24.61050566893424 
+            text = "pause" 
+        intervals [30]:
+            xmin = 24.61050566893424 
+            xmax = 25.12998859512816 
+            text = "" 
+        intervals [31]:
+            xmin = 25.12998859512816 
+            xmax = 27.63917200904732 
+            text = "pause" 
+        intervals [32]:
+            xmin = 27.63917200904732 
+            xmax = 27.794505668934242 
+            text = "" 
+        intervals [33]:
+            xmin = 27.794505668934242 
+            xmax = 28.218774826552167 
+            text = "" 
+        intervals [34]:
+            xmin = 28.218774826552167 
+            xmax = 28.56501133786848 
+            text = "pause" 
